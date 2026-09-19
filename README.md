@@ -1,6 +1,7 @@
 # EXPERIMENT 4: DATA WRANGLING AND DATA VISUALIZATION
-Liam S. Bantigue | 2ECE-A
-
+Bantigue, Liam S.
+Section: 2ECE-A
+Date Submitted: September 19, 2026
 # NOTE
 In problem a and b, it asked to RETAIN column "Average", but there is no "Average" column in the DataFrame assigned to df. I manually added the column "Average" in df by using the code:
 ```python
